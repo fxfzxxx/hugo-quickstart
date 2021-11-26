@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+      <description>如何快速搭建一个静态博客 博客的作用:   浪费时间
+  装逼
+  高价值展示pua
+   为了充分发挥博客的 2 和 3 的作用, 我研究了如何快速的把自己的笔记内容, 轻松地转化为博客. 说实话, 本来以为不难, 结果属实有点费劲嗷. 弄了整整一天, 才算是有点结果. 😇
+用到的软件和技术  Typora: Markdown 编辑器, md 格式文本是快速搭建博客的基础, 请习惯 md 记笔记的方式. Hugo: 渲染器, 能够把 md 格式的文本渲染成目标主题的 html 静态页面. git 和 GitHub: 把渲染好的页面上传到 GitHub 仓库. Netlify: 部署工具, 把 git 仓库部署在 Netlify 注册的账号中.  流程和细节 我用的是 mac , 所以流程基于 macOS. 不过 Windows 和 Linux 也大差不差.😉</description>
+    </item>
+    
+  </channel>
+</rss>
